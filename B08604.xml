@@ -1,0 +1,125 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By His Majesties commissioners for examining and enquiring into the claims and titles to the kings province or Narraganset countrey</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B08604</idno>
+            <idno type="STC">Wing B6352</idno>
+            <idno type="STC">ESTC W19746</idno>
+            <idno type="EEBO-CITATION">69648551</idno>
+            <idno type="OCLC">ocm 69648551</idno>
+            <idno type="VID">184871</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B08604)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184871)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2878:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By His Majesties commissioners for examining and enquiring into the claims and titles to the kings province or Narraganset countrey</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Cambridge, Mass. :</pubPlace>
+                  <date>1683]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Massachusetts Historical Society Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  II, --  King of England, 1630-1685.</term>
+               <term>United States --  History --  Colonial period, ca. 1600-1775.</term>
+               <term>Broadsides --  Massachusetts --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184871:1" rendition="simple:additions"/>
+            <head>BY HIS MAJESTIES Commiſſioners, <hi>For Examining and Enquiring into the Claims and Titles to the</hi> Kings Province OR Narraganſet Countrey.</head>
+            <p>VVHereas by a Commiſſion from His Majeſty, bearing Date the 7<hi rend="sup">th.</hi> of <hi>April</hi> 1683. <hi>Edward Cranfeild, William Stoughton, Joſeph Dudley, Edward Randolph, Samuel Shrimpton, John Fitz Winthrop, Edward Palmes, Nathaniel Saltonſtall</hi> and <hi>John Pynchon</hi> junior, Eſquires, or any three of them, (whereof <hi>Edward Cranfeild</hi> or <hi>Edward Randolph</hi> to be of the <hi>Quorum</hi>) are Appointed and Authorized Commiſſioners to Examine &amp; Enquire into the Reſpective Claims and Titles, as well of His Majeſty as of all Perſons or Corporations whatſoever, to the immediate Juriſdiction, Government, or Propriety of the Soyle of a certain Tract of Land with His Majeſties Dominion of <hi>New-England,</hi> called the <hi>King Province</hi> or <hi>Narraganſet Contrey,</hi> and to call before them any Perſon or Perſons, and to Search Records as they ſhall find requiſite, and their Proceedings therein with their Opinions upon the Matters that ſhall be examined by them to ſtate, and with all convenient ſpeed Report thereof to make to His Majeſty: In Purſuance whereof, We the Commiſſioners have thought fit to Certifie and Publiſh to all Perſons and Corporations concerned, that we have Concluded and Appointed <hi>Wedneſday</hi> the <hi>22<hi rend="sup">d.</hi>
+               </hi> of <hi>Au<g ref="char:EOLhyphen"/>guſt</hi> next, to Convene and Aſſemble at Mr. <hi>Richard Smith</hi> his Houſe in the <hi>Narraganſet Countrey,</hi> there to Hear and Receive the Claims, Proofs, Pleas and Pretentions of all Perſons whatſoever either behalf of His Maiestyy, or any other Perſons or Corporations. And that We do hereby Summon and Require all Per<g ref="char:EOLhyphen"/>ſons and Corporations, that either Poſſeſs, or Claim any Right or Title to the Soyle or Juriſdiction of or within the <hi>Kings Province,</hi> or <hi>Narraganſet Countrey,</hi> whether upon the Main, between the Rivers of <hi>Proi<g ref="char:EOLhyphen"/>dence</hi> and <hi>Pauguatuck,</hi> the Iſland of <hi>Canonnicut, Prudence, Patience,</hi> or any other Iſlands which now or formerly are or were reputed to be part of or belonging to the <hi>Narraganſet Countrey,</hi> either Perſonally or by their Re<g ref="char:EOLhyphen"/>preſentatives or Agents, fully Inſtructed and Impowred to Appear, and give their Attendance at the Time and Place aforeſaid; and to produce All Letters, Acts, and Orders from his Majeſty His Council, or any His Commiſſioners to the reſpective Colonies, Governours or Governments, with all ſuch Charters, Deeds, Records and Evidence whatſoever, that may tend to the Clearing of Truth herein, or Authentick Copies thereof: And whereas upon Information given, it is Preſumed that from the Antient Records of the acts of Court, and of Graunts and Conveyances of Land kept at <hi>Road-Iſland,</hi> ſome Collections be<g ref="char:EOLhyphen"/>neficial to His Majeſty's Intereſt may be made; The ſaid Colony of <hi>Road-Iſland</hi> and <hi>Providence</hi> Planta<g ref="char:EOLhyphen"/>tion, is hereby eſpecially Required to produce all ſuch Papers, Regiſters, or Books of Record as have at any time been kept from the Year 1640. or Authentick Copies thereof to this day: And to the End that all Perſons and Corporations Concerned, may have ſeaſonable and full Notice hereof, We have Ordered this Summons to be Printed, and ſundry Copies thereof Atteſted by Mr. <hi>William Wharton,</hi> (with particular Letters under our Hands, Directed to the Several Governours of His Majeſties Colonies in <hi>New-En<g ref="char:EOLhyphen"/>gland,</hi>) that the ſame may be Affixed and Publiſhed in all convenient Places within their Reſpective Ju<g ref="char:EOLhyphen"/>riſdictions.</p>
+            <closer>
+               <signed>By Order of His MAJESTIES Commiſſioners, <add>William Wharton Reg.</add>
+               </signed>
+            </closer>
+            <pb facs="tcp:184871:2" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
